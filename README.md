@@ -1,2 +1,3 @@
 # hello-world
-My first online repository
+
+I want to learn, how to work with git!
